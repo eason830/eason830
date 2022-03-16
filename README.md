@@ -1,31 +1,15 @@
-### Hi there 👋
 
-<!--
-**eason830/eason830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div>
+<h1 align="center">Hi There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm Eason</h1>
+<h3 align="center">Welcome to my Github!</h3>
+<p align="center">
+ <div>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
 </div>
-<h1 align="center">Hi There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm Tina</h1>
-<h3 align="center">Welcome to my Github!</h3>
-<p align="center">
-<img alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" width="300" height="350"/>
- </p>
- 
- - 📫 How to reach me **tina931691221@gmail.com**
+<br>
+
+ - 📫 How to reach me **orz0830@gmail.com**
  
 ## Tools I use <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
@@ -48,7 +32,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img alt="tina1221's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tingyachen&show_icons=true&theme=radical" />
+<img alt="eason830's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eason830&show_icons=true&theme=radical" />
 <br/>
 
-<a href="https://github.com/tingyachen/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tingyachen&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/eason830/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eason830&layout=compact&theme=tokyonight" /></a>
