@@ -2,11 +2,11 @@
 <h1 align="center">Hi There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm Eason</h1>
 <h3 align="center">Welcome to my Github!</h3>
 <p align="center">
- <div>
+ <!-- <div>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="250" height="auto" /></a>
-</div>
+</div> -->
 <br>
 
  - 📫 How to reach me **orz0830@gmail.com**
